@@ -1,0 +1,31 @@
+,Normalization,Model,Random State,MSE,R^2,R^2 using score function
+0,Z-Score Normalization,LinearRegression,1,0.06,0.96,0.96
+1,Z-Score Normalization,SVR Linear,1,0.06,0.96,0.96
+2,Z-Score Normalization,SVR Poly,1,0.6,0.61,0.61
+3,Z-Score Normalization,SVR Rbf,1,0.64,0.58,0.58
+4,Z-Score Normalization,MLPRegressor,1,0.07,0.95,0.95
+5,Z-Score Normalization,LinearRegression,20,0.08,0.89,0.89
+6,Z-Score Normalization,SVR Linear,20,0.06,0.91,0.91
+7,Z-Score Normalization,SVR Poly,20,0.38,0.48,0.48
+8,Z-Score Normalization,SVR Rbf,20,0.1,0.87,0.87
+9,Z-Score Normalization,MLPRegressor,20,0.12,0.84,0.84
+10,Z-Score Normalization,LinearRegression,40,0.07,0.92,0.92
+11,Z-Score Normalization,SVR Linear,40,0.07,0.92,0.92
+12,Z-Score Normalization,SVR Poly,40,0.16,0.81,0.81
+13,Z-Score Normalization,SVR Rbf,40,0.11,0.87,0.87
+14,Z-Score Normalization,MLPRegressor,40,0.07,0.92,0.92
+15,Min-Max Normalization,LinearRegression,1,0.0,0.96,0.96
+16,Min-Max Normalization,SVR Linear,1,0.0,0.74,0.74
+17,Min-Max Normalization,SVR Poly,1,0.01,0.61,0.61
+18,Min-Max Normalization,SVR Rbf,1,0.01,0.48,0.48
+19,Min-Max Normalization,MLPRegressor,1,0.01,0.53,0.53
+20,Min-Max Normalization,LinearRegression,20,0.0,0.89,0.89
+21,Min-Max Normalization,SVR Linear,20,0.0,0.65,0.65
+22,Min-Max Normalization,SVR Poly,20,0.0,0.33,0.33
+23,Min-Max Normalization,SVR Rbf,20,0.0,0.33,0.33
+24,Min-Max Normalization,MLPRegressor,20,0.0,0.38,0.38
+25,Min-Max Normalization,LinearRegression,40,0.0,0.92,0.92
+26,Min-Max Normalization,SVR Linear,40,0.0,0.83,0.83
+27,Min-Max Normalization,SVR Poly,40,0.0,0.57,0.57
+28,Min-Max Normalization,SVR Rbf,40,0.0,0.57,0.57
+29,Min-Max Normalization,MLPRegressor,40,0.0,0.78,0.78
